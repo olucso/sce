@@ -99,7 +99,7 @@ export default function FacaParte() {
             />
           </div>
           <div>
-            <label className={styles.label} htmlE-mail="idE-mail">
+            <label className={styles.label} htmlFor="idE-mail">
               E-mail: *
             </label>
             <input
@@ -114,7 +114,7 @@ export default function FacaParte() {
             />
           </div>
           <div>
-            <label className={styles.label} htmlGenero="idGenero">
+            <label className={styles.label} htmlFor="idGenero">
               Gênero: *
             </label>
             <input
